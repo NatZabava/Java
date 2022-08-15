@@ -7,15 +7,14 @@ basic skills necessary for a software engineer to solve real problems, from deve
 and debugging programs.
  	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20and%20Software%20Engineering%20Fundamentals.jpg?raw=true" alt="drawing" width="1000"/>
 
-## Java Programming Solving Problems with Software
-Software is quickly becoming integral part of human life as we see more and more automation and technical advancements. Just like we expect car to work all the time and can't afford to break or reboot unexpectedly, software industry needs to continue to learn better way to build software if it were to become integral part of human life.
-
-In this course,  you will get an overview of  how software teams work? What processes they use?  What are some of the industry standard methodologies? What are pros and cons of each?  You will learn enough to have meaningful conversation around software development processes.
-
-After completing this course, a learner will be able to 
-1) Apply core software engineering practices at conceptual level for a given problem. 
-2) Compare and contrast traditional, agile, and lean development methodologies at high level.  These include Waterfall, Rational Unified Process, V model, Incremental, Spiral models and overview of agile mindset 
-3) Propose a methodology best suited for a given situation
+## Programming Foundations with JavaScript, HTML and CSS
+This course teaches basic programming concepts (eg functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, the basics of web development are studied when creating web pages using HTML, CSS, JavaScript. By the end of the course, you've created a web page where other users can upload their images and apply the image filters you've created.
+After completing this course:
+1. Think critically about how to solve a problem through programming;
+2. Write JavaScript programs using functions, for loops and conditional statements;
+3. Use HTML to create a web page with paragraphs, sections, images, links and lists;
+4. Add styles to the web page with CSS IDs and classes; as well as
+5. Make webpage interactive with JavaScript commands like alert, onClick, onChange by adding input features like image canvas, button and slider.
 	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Coursera%20Software%20Development%20Processes%20and%20Methodologies.jpg?raw=true" alt="drawing" width="1000"/>
 
 
