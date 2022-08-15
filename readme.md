@@ -5,9 +5,7 @@ languages ​​and the basis of the Android operating system. This specializati
 concepts of programming and how to write a program to solve complex problems. During the course, you get the 
 basic skills necessary for a software engineer to solve real problems, from developing algorithms to testing 
 and debugging programs.
- 
- <img src="https://github.com/NatZabava/Java/blob/69fac98ec772e724a40765b473412dcf48b598e3/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20and%20Software%20Engineering%20Fundamentals.png>
-
+ 	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20and%20Software%20Engineering%20Fundamentals.jpg?raw=true" alt="drawing" width="1000"/>
 
 ## Software Development Processes and Methodologies
 Software is quickly becoming integral part of human life as we see more and more automation and technical advancements. Just like we expect car to work all the time and can't afford to break or reboot unexpectedly, software industry needs to continue to learn better way to build software if it were to become integral part of human life.
