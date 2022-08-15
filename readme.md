@@ -62,6 +62,13 @@ After completing this course:
 9. Recognize the limitations of Java algorithms and programs when solving problems.
 10. Recognize standard Java classes and idioms, including exception handling, static methods, java.net and java.io packages.
 
- <img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.jpg?raw=true" alt="drawing" width="1000"/>
+ 	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.jpg?raw=true" alt="drawing" width="1000"/>
 
 ## Java Programming Build a Recommendation System
+This final course will demonstrate problem solving and Java programming skills by building recommender systems. Work with movie data, including ratings, but the principles used can be easily adapted to books, restaurants, and more. A program is being written that will answer questions about the data, including which items to recommend to the user based on their ratings of several films. Given input files with user ratings and movie titles, you can:
+1. Read and analyze data into lists and maps;
+2. Calculate the average rating;
+3. Calculate how this estimator is similar to another user based on the ratings; as well as
+4. Recommend movies to this user based on ratings.
+5. Show recommended movies for this user on the web page.
+	<img src="
