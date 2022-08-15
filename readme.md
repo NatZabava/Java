@@ -15,7 +15,7 @@ After completing this course:
 3. Use HTML to create a web page with paragraphs, sections, images, links and lists;
 4. Add styles to the web page with CSS IDs and classes; as well as
 5. Make webpage interactive with JavaScript commands like alert, onClick, onChange by adding input features like image canvas, button and slider.
-	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Coursera%20Software%20Development%20Processes%20and%20Methodologies.jpg?raw=true" alt="drawing" width="1000"/>
+	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.jpg?raw=true" alt="drawing" width="1000"/>
 
 
 ## Java Programming Solving Problems with Software
