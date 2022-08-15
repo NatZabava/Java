@@ -62,5 +62,5 @@ After completing this course:
 9. Recognize the limitations of Java algorithms and programs when solving problems.
 10. Recognize standard Java classes and idioms, including exception handling, static methods, java.net and java.io packages.
 
- <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Lean%20Software%20Development.jpg?raw=true" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS.jpg?raw=true" alt="drawing" width="1000"/>
 
