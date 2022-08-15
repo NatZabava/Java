@@ -6,7 +6,7 @@ concepts of programming and how to write a program to solve complex problems. Du
 basic skills necessary for a software engineer to solve real problems, from developing algorithms to testing 
 and debugging programs.
 
- 	<img src="?raw=true" alt="drawing" width="1000"/>
+ 	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20and%20Software%20Engineering%20Fundamentals.jpg?raw=true" alt="drawing" width="1000"/>
 
 ## Programming Foundations with JavaScript, HTML and CSS
 This course teaches basic programming concepts (eg functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, the basics of web development are studied when creating web pages using HTML, CSS, JavaScript. By the end of the course, you've created a web page where other users can upload their images and apply the image filters you've created.
