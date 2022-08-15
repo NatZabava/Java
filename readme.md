@@ -35,13 +35,15 @@ After completing this course you will learn:
  <img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20Solving%20Problems%20with%20Software.jpg?raw=true" alt="drawing" width="1000"/>
 
 
-## Agile Software Development
+## Java Programming Arrays, Lists, and Structured Data
 
 After completing this course:
-1) Demonstrate the ability to effectively participate in agile software development practices/processes.
-2) Explain the purpose of the general flexibilities.
-3) The ability to apply flexible principles and values ​​to a given situation.
-4) The ability to identify and solve the most common problems that arise when implementing Agile methods.
+1. Reading and writing data from / to files;
+2. Solve problems with data files;
+3. Conduct a quantitative analysis of the data (for example, find the maximums, minimums, averages);
+4. Store and process data in an array or ArrayList;
+5. Combine several classes to solve larger problems;
+6. Use iterations and collections (including maps) in Java.
 
  <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Agile%20Software%20Development.jpg?raw=true" alt="drawing" width="1000"/>
 
