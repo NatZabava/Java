@@ -6,7 +6,7 @@ concepts of programming and how to write a program to solve complex problems. Du
 basic skills necessary for a software engineer to solve real problems, from developing algorithms to testing 
 and debugging programs.
  
- <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Screenshot_1.png?raw=true" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Java/blob/69fac98ec772e724a40765b473412dcf48b598e3/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20and%20Software%20Engineering%20Fundamentals.png>
 
 
 ## Software Development Processes and Methodologies
