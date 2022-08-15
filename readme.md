@@ -33,7 +33,7 @@ After completing this course you will learn:
 8. Use divide-and-conquer design methods for a program that uses multiple methods.
 
 
- <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Engineering%20Practices%20for%20Building%20Quality%20Software.png?raw=true" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20Solving%20Problems%20with%20Software.jpg?raw=true" alt="drawing" width="1000"/>
 
 
 ## Agile Software Development
