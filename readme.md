@@ -7,7 +7,7 @@ basic skills necessary for a software engineer to solve real problems, from deve
 and debugging programs.
  	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20and%20Software%20Engineering%20Fundamentals.jpg?raw=true" alt="drawing" width="1000"/>
 
-## Software Development Processes and Methodologies
+## Java Programming Solving Problems with Software
 Software is quickly becoming integral part of human life as we see more and more automation and technical advancements. Just like we expect car to work all the time and can't afford to break or reboot unexpectedly, software industry needs to continue to learn better way to build software if it were to become integral part of human life.
 
 In this course,  you will get an overview of  how software teams work? What processes they use?  What are some of the industry standard methodologies? What are pros and cons of each?  You will learn enough to have meaningful conversation around software development processes.
@@ -19,10 +19,19 @@ After completing this course, a learner will be able to
 	<img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Coursera%20Software%20Development%20Processes%20and%20Methodologies.jpg?raw=true" alt="drawing" width="1000"/>
 
 
-## Engineering Practices for Building Quality Software
+## Java Programming Solving Problems with Software
+The course includes learning how to code in Java and improving your programming and problem solving skills. Teaches how to develop algorithms, as well as develop and debug programs. Using custom open source classes, you can write programs that access and transform images, websites, and other types of data.
 
-In this course, I learned about the engineering methods and processes that agile and traditional teams use to make sure the team is ready for change. In addition, I also learned about practices, methods and processes that 
-can help a team create high quality software. How to calculate various quantitative indicators related to software quality.
+After completing this course you will learn:
+1. Edit, compile and run the Java program;
+2. Use conditional statements and loops in a Java program;
+3. Use the Java API documentation when writing programs.
+4. Debug a Java program using the scientific method;
+5. Write a Java method to solve a specific problem;
+6. Develop a set of test cases as part of program development;
+7. Create a class with multiple methods that work together to solve a problem; as well as
+8. Use divide-and-conquer design methods for a program that uses multiple methods.
+
 
  <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Engineering%20Practices%20for%20Building%20Quality%20Software.png?raw=true" alt="drawing" width="1000"/>
 
