@@ -45,7 +45,7 @@ After completing this course:
 5. Combine several classes to solve larger problems;
 6. Use iterations and collections (including maps) in Java.
 
- <img src="https://github.com/NatZabava/Learning/blob/Learning/Software%20Development%20Processes%20and%20Methodologies/Agile%20Software%20Development.jpg?raw=true" alt="drawing" width="1000"/>
+ <img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20Arrays%2C%20Lists%2C%20and%20Structured%20Data.jpg?raw=true" alt="drawing" width="1000"/>
 
 ## Lean Software Development
 While scrum and XP were transforming the software development industry, there were another set of ideas (derived from lean manufacturing and Six Sigma) that started to influence software development methods. 
