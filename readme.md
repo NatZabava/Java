@@ -71,4 +71,4 @@ This final course will demonstrate problem solving and Java programming skills b
 3. Calculate how this estimator is similar to another user based on the ratings; as well as
 4. Recommend movies to this user based on ratings.
 5. Show recommended movies for this user on the web page.
-	<img src="
+	<img src="https://github.com/NatZabava/Java/blob/main/Java%20Programming%20and%20Software%20Engineering%20Fundamentals/Java%20Programming%20Build%20a%20Recommendation%20System.jpg?raw=true" alt="drawing" width="1000"/>
